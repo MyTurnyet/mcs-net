@@ -1,0 +1,18 @@
+{
+  "name": "mcs-net",
+  "version": "0.1.0",
+  "description": "MQTT transport, WiFi and mDNS adapters, broker discovery, the Loco2MQTT turnout contract and presence for ESP32 MaltBee Control System projects.",
+  "keywords": "model railroad, mqtt, loconet, esp32",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyTurnyet/mcs-net.git"
+  },
+  "frameworks": "*",
+  "platforms": "*",
+  "dependencies": [
+    {
+      "name": "mcs-core",
+      "version": "https://github.com/MyTurnyet/mcs-core.git#v0.1.0"
+    }
+  ]
+}
