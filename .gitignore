@@ -1,0 +1,4 @@
+.pio/
+__pycache__/
+*.py[cod]
+.DS_Store
